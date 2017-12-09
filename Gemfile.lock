@@ -4,7 +4,7 @@ PATH
     fhir_dstu2_models (1.0.2)
       bcp47 (>= 0.3)
       date_time_precision (>= 0.8)
-      mime-types (>= 1.16, < 3)
+      mime-types (>= 1.16, < 4)
       nokogiri (>= 1.7)
 
 GEM
